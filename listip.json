@@ -3,7 +3,6 @@
     "networkAcls": {
       "defaultAction": "Deny",
       "ipRules": [
-        { "value": "103.18.34.221" },
         { "value": "34.50.64.0/18" },
         { "value": "34.101.18.0/24" },
         { "value": "34.101.20.0/22" },
