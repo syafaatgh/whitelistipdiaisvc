@@ -1,2 +1,2 @@
-aihubsml,sml-aiops-izeno-rg
+namaaiservice,namarg
 faatwhite,faat-reprod-avrist
