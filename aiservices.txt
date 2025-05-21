@@ -1,0 +1,2 @@
+aihubsml,sml-aiops-izeno-rg
+faatwhite,faat-reprod-avrist
